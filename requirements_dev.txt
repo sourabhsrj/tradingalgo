@@ -26,6 +26,6 @@ smartapi-python==1.4.1
 Twisted==22.10.0
 txaio==23.1.1
 typing_extensions==4.6.3
-urllib3==2.0.3
+urllib3==2.0.7
 websocket-client==1.6.0
 zope.interface==6.0
